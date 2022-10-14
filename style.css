@@ -1,0 +1,24 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 20px;
+    font-family: Raleway;
+    font-weight: bold;
+}
+.note{
+    color: rgb(91, 0, 128);
+    font-size: 13px;
+    font-family: Raleway;
+}
+.song_name{
+    font-size: 20px;
+}
+canvas{
+    background-color: #000000;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+}
